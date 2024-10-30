@@ -2,7 +2,13 @@
 
 I'm a dedicated Full-Stack Web Developer passionate about building intuitive and efficient applications. I love tackling challenges across the entire stack, from crafting smooth, responsive front-end interfaces to building scalable, robust back-end solutions. My dream is to create digital experiences that users love and grow with emerging tech.
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
+
+😄 I’m open for FrontEnd and back roles
+
+🧠 I'm expanding my knowledge in software architecture, design patterns, and cloud technologies
+
+🤝 I'm open to collaborating on backend and frontend projects
 
 <p align="center">
   <strong>🛠️ Languages and Tools</strong>
