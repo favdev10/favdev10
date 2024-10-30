@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Prince Emeka Joel 👋
 
-<!--
-**favdev10/favdev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a dedicated Full-Stack Web Developer passionate about building intuitive and efficient applications. I love tackling challenges across the entire stack, from crafting smooth, responsive front-end interfaces to building scalable, robust back-end solutions. My dream is to create digital experiences that users love and grow with emerging tech.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to reach me:
+* ✉️ You can send me an email at: favdev10@gmail.com
+
+## 💼 Technologies & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+## 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=favdev10&theme=onedark)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=favdev10&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=favdev10&layout=compact)
+
+## 🌟 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=favdev10)
+
+## 📈 Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=favdev10)
