@@ -4,6 +4,7 @@ I'm a dedicated Full-Stack Web Developer passionate about building intuitive and
 
 ![Snake animation](https://github.com/favdev10/favdev10/blob/output/dist/github-contribution-grid-snake.svg)
 
+
 🔭 I’m currently working on ...
 
 😄 I’m open for FrontEnd and back roles
