@@ -2,9 +2,6 @@
 
 I'm a dedicated Full-Stack Web Developer passionate about building intuitive and efficient applications. I love tackling challenges across the entire stack, from crafting smooth, responsive front-end interfaces to building scalable, robust back-end solutions. I dream of creating digital experiences that users love and grow with emerging tech.
 
-![Snake animation](https://github.com/favdev10/favdev10/blob/output/dist/github-contribution-grid-snake.svg)
-
-
 🔭 I’m currently working on ...
 
 😄 I’m open for FrontEnd and back roles
