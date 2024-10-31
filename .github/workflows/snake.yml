@@ -1,6 +1,9 @@
 permissions:
   contents: write
 
+output: dist/github-contribution-grid-snake.svg
+
+
 name: Generate Snake
 
 on:
