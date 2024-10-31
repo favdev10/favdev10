@@ -1,44 +1,33 @@
-permissions:
-  contents: write
-
-output: dist/github-contribution-grid-snake.svg
-
-
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # This will run every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-    - main
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
-
-      - name: Generate the snake files
-        uses: Platane/snk@v3
-        id: snake-gif
+      - name: Checkout repository
+        uses: actions/checkout@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake.gif
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Generate Snake
+        uses: Platane/snk@v2
         with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: favdev10
+          output: dist/github-contribution-grid-snake.svg
 
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Updated snake animation" || echo "No changes to commit"
+          git push
