@@ -16,7 +16,7 @@ I'm a dedicated Full-Stack Web Developer passionate about building intuitive and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,c,py,npm,nodejs,mongodb,express,linux,mysql,git,vim,github,firebase,tailwind,vscode," />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,c,py,npm,nodejs,mongodb,express,linux,mysql,git,vim,github,firebase,tailwind,vscode," />
   </a>
 </p>
 
